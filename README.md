@@ -1,2 +1,2 @@
 # book-errata-community-service
-My contributions towards improving modern machine learning literature
+My personal contributions towards improving modern machine learning literature.  I submit these directly to the publishing houses of the respective books I read.  
